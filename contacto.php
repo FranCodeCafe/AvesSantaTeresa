@@ -4,7 +4,7 @@
     $cliente = $_POST['email']; // Correo del cliente
     $nombre = $_POST['nombre'];
     $asunto = $_POST['asunto'];
-    $asunto_respuesta = "Copia de tu mensaje a Aves Santa Teresa";
+    $asunto_respuesta = "Hemos recibido tu mensaje";
     $mensaje = $nombre . " envió el siguiente mensaje:" . "\n\n" . $_POST['mensaje'];
     $mensaje_respuesta = "Gracias " . $nombre . " por contactarte con nosotros. Te responderemos a la brevedad.";
 
