@@ -338,7 +338,7 @@
                     <div id="container-contacto" style="text-align:left;background-color:#fff;padding:0px 20px 20px 20px;border-radius:15px;">
                         <div class="alert alert-dismissible alert-success" style="text-align:justify;">
                             <!--<button type="button" class="close" data-dismiss="alert">&times;</button>-->
-                            <strong>¡Atención!</strong> Si deseas visitarnos, por favor <a href="#" class="alert-link">contáctanos para pedir una hora primero</a>. De esta forma nos aseguramos de no realizar planes y podemos atenderte como es debido.
+                            <strong>¡Atención!</strong> Si deseas visitarnos, por favor <strong>contáctanos para pedir una hora primero</strong>. De esta forma nos aseguramos de no realizar planes y podemos atenderte como es debido.
                         </div>
                         <p><i style="font-size:18px;" class="fas fa-phone"></i><a style="text-decoration:none;color:#000;" href="tel:+56956015395">  Llámanos al +56 9 56015395</a></p>
                         <p><i style="font-size:18px;" class="fab fa-whatsapp"></i><a style="text-decoration:none;color:#000;" href="https://api.whatsapp.com/send?phone=+56956015395"> Hablemos por WhatsApp</a></p>
