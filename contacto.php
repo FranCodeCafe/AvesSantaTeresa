@@ -5,8 +5,8 @@
     $nombre = $_POST['nombre'];
     $asunto = $_POST['asunto'];
     $asunto_respuesta = 'Hemos recibido tu mensaje';
-    $mensaje = $nombre . ' envió el siguiente mensaje:' . "\n\n" . $_POST['mensaje'];
-    $mensaje_respuesta = 'Gracias ' . $nombre . ' por contactarte con nosotros. Hemos recibido tu mensaje y te responderemos a la brevedad.' . "\t" . 'Saludos cordiales,' . "\t\t" . 'Aves Santa Teresa';
+    $mensaje = $nombre . ' envió el siguiente mensaje:' . "<br><br>" . $_POST['mensaje'];
+    $mensaje_respuesta = 'Gracias ' . $nombre . ' por contactarte con nosotros. Hemos recibido tu mensaje y te responderemos a la brevedad.' . "<br><br>" . 'Saludos cordiales,' . "<br>" . 'Aves Santa Teresa';
 
     $headers =  'MIME-Version: 1.0' . "\r\n"; 
     $headers .= 'From: ' . $cliente . "\r\n";
