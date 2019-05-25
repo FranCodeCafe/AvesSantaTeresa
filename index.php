@@ -314,19 +314,19 @@
                         <p style="text-align:justify;">Puedes enviarnos un mensaje con tus dudas y te responderemos a la brevedad.</p>
                         <div class="form-group">
                             <label for="nombre">Nombre:</label>
-                            <input type="nombre" class="form-control" id="nombre" placeholder="Ingrese su nombre" name="nombre">
+                            <input type="nombre" class="form-control" id="nombre" placeholder="Ingrese su nombre" name="nombre" required>
                         </div>
                         <div class="form-group">
                             <label for="asunto">Asunto:</label>
-                            <input type="asunto" class="form-control" id="asunto" placeholder="Ingrese un asunto" name="asunto">
+                            <input type="asunto" class="form-control" id="asunto" placeholder="Ingrese un asunto" name="asunto" required>
                         </div>
                         <div class="form-group">
                             <label for="email">Email:</label>
-                            <input type="email" class="form-control" id="email" placeholder="Ingrese su correo" name="email">
+                            <input type="email" class="form-control" id="email" placeholder="Ingrese su correo" name="email" required>
                         </div>
                         <div class="form-group">
                             <label for="mensaje">Mensaje:</label>
-                            <textarea class="form-control" rows="6" id="mensaje" placeholder="Ingrese su mensaje" name="mensaje"></textarea>
+                            <textarea class="form-control" rows="6" id="mensaje" placeholder="Ingrese su mensaje" name="mensaje" required></textarea>
                         </div>
                         <button type="submit" class="btn btn-primary">Enviar</button>
                     </form>

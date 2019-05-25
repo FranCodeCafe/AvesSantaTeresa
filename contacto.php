@@ -6,7 +6,7 @@
     $asunto = $_POST['asunto'];
     $asunto_respuesta = "Copia de tu mensaje a Aves Santa Teresa";
     $mensaje = $nombre . " envió el siguiente mensaje:" . "\n\n" . $_POST['mensaje'];
-    $mensaje_respuesta = $nombre . ", te hemos enviado una copia de tu mensaje:" . "\n\n" . $_POST['mensaje'];
+    $mensaje_respuesta = "Gracias " . $nombre . " por contactarte con nosotros. Te responderemos a la brevedad.";
 
     $headers =  'MIME-Version: 1.0' . "\r\n"; 
     $headers .= 'From: ' . $cliente . "\r\n";
