@@ -309,6 +309,7 @@
             <h1 id="section-icon" style="padding-bottom:40px;"><i class="fab fa-whatsapp" style="color:#25d366;"></i></h1>
             <div class="row">
                 <!-- Contact Form -->
+                <!-- ¡HOLA PERSONA CURIOSA! ¿DANDO UN PASEO POR EL CÓDIGO? NO ES CIENCIA DE COHETES LOL -->
                 <div class="col-sm-6">
                    <form action="contacto.php" method="POST" style="padding-bottom:30px;text-align:left;background-color:#fff;border-radius:15px;">
                         <p style="text-align:justify;">Puedes enviarnos un mensaje con tus dudas y te responderemos a la brevedad.</p>
