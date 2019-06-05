@@ -327,7 +327,7 @@
                         </div>
                         <div class="form-group">
                             <label for="mensaje">Mensaje:</label>
-                            <textarea class="form-control" rows="6" id="mensaje" placeholder="Ingrese su mensaje" name="mensaje" required></textarea>
+                            <textarea class="form-control" rows="7" id="mensaje" placeholder="Ingrese su mensaje" name="mensaje" required></textarea>
                         </div>
                         <button type="submit" class="btn btn-primary">Enviar</button>
                     </form>
@@ -338,14 +338,14 @@
                     <div id="container-contacto" style="text-align:left;background-color:#fff;padding:0px 20px 20px 20px;border-radius:15px;">
                         <div class="alert alert-dismissible alert-success" style="text-align:justify;">
                             <!--<button type="button" class="close" data-dismiss="alert">&times;</button>-->
-                            <strong>¡Atención!</strong> Si deseas visitarnos, por favor <strong>contáctanos para pedir una hora primero</strong>. De esta forma nos aseguramos de no realizar planes y podemos atenderte como es debido.
+                            <strong>¡Atención!</strong> Si deseas visitarnos, por favor <strong>contáctanos para pedir una hora primero</strong>. De esta forma nos aseguramos de no realizar planes y podemos atenderte bien.
                         </div>
-                        <p><i style="font-size:18px;" class="fas fa-phone"></i><a style="text-decoration:none;color:#000;" href="tel:+56956015395">  Llámanos al +56 9 56015395</a></p>
-                        <p><i style="font-size:18px;" class="fab fa-whatsapp"></i><a style="text-decoration:none;color:#000;" href="https://api.whatsapp.com/send?phone=+56956015395"> Hablemos por WhatsApp</a></p>
-                        <p><i style="font-size:18px;" class="fab fa-facebook"></i><a style="text-decoration:none;color:#000;" href="#"> Visita nuestro FanPage en Facebook</a></p>
-                        <!--<p><i style="color:#0084FF;font-size:18px;" class="fab fa-facebook-messenger"></i><a style="text-decoration:none;color:#000;" href="#"> Envía un mensaje por Messenger</a></p>-->
-                        <p><i style="font-size:18px;" class="fas fa-at"></i><a style="text-decoration:none;color:#000;" href="mailto:avessantateresa@gmail.com""> AvesSantaTeresa@gmail.com</a></p>
-                        <p><i style="font-size:18px;" class="fas fa-map-marker-alt"></i><a href="https://www.google.com/maps/place/Aves+Santa+Teresa/@-32.841078,-70.939512,18z/data=!4m5!3m4!1s0x0:0xfca390054855f838!8m2!3d-32.841078!4d-70.9395124?hl=es-419" style="text-decoration:none;color:#000;"> Calle San Ignacio 19, Población Santa Teresa, Llay Llay, Región de Valparaíso.</a></p>
+                        <p><a style="text-decoration:none;color:#000;" href="tel:+56956015395"><i style="font-size:18px;" class="fas fa-phone"></i>  Llámanos al +56 9 56015395</a></p>
+                        <p><a style="text-decoration:none;color:#000;" href="https://api.whatsapp.com/send?phone=+56956015395"><i style="font-size:18px;" class="fab fa-whatsapp"></i> Hablemos por WhatsApp</a></p>
+                        <p><a style="text-decoration:none;color:#000;" href="https://www.facebook.com/Aves-Santa-Teresa-696794420517801/"><i style="font-size:18px;" class="fab fa-facebook"></i> Visita nuestro FanPage en Facebook</a></p>
+                        <p><a style="text-decoration:none;color:#000;" href="https://m.me/696794420517801?fbclid=IwAR0W-LcSYanSCDU2yCdWG6Pc_kP9Q2_UNGg6MyjdePfirCGgMrwUIDgcAlY"><i style="font-size:18px;" class="fab fa-facebook-messenger"></i> Envíanos un mensaje por Messenger</a></p>
+                        <p><a style="text-decoration:none;color:#000;" href="mailto:avessantateresa@gmail.com"><i style="font-size:18px;" class="fas fa-at"></i> AvesSantaTeresa@gmail.com</a></p>
+                        <p><a href="https://www.google.com/maps/place/Aves+Santa+Teresa/@-32.841078,-70.939512,18z/data=!4m5!3m4!1s0x0:0xfca390054855f838!8m2!3d-32.841078!4d-70.9395124?hl=es-419" style="text-decoration:none;color:#000;"><i style="font-size:18px;" class="fas fa-map-marker-alt"></i> Calle San Ignacio 19, Población Santa Teresa, Llay Llay, Región de Valparaíso.</a></p>
                         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d323.10839612277755!2d-70.9393659499479!3d-32.841068347190316!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96883bbce4b65d67%3A0xfca390054855f838!2sAves+Santa+Teresa!5e0!3m2!1ses-419!2scl!4v1557787354971!5m2!1ses-419!2scl" width="100%" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
                     </div>
                 </div>
@@ -372,13 +372,14 @@
                 <div id="social-icon-col" class="col-sm-4" style="font-size:30px;text-align:center;padding:30px 0px 30px 10px;">
                     <a style="color:#fff;" href="https://api.whatsapp.com/send?phone=+56956015395" target="_blank"><i style="padding-right:20px;" class="fab fa-whatsapp"></i></a>
                     <a style="color:#fff;" href="https://www.facebook.com/Aves-Santa-Teresa-696794420517801" target="_blank"><i style="padding-right:20px;" class="fab fa-facebook"></i></a>
-                    <a style="color:#fff;" href="#" target="_blank"><i style="padding-right:20px;" class="fab fa-facebook-messenger"></i></a>
+                    <a style="color:#fff;" href="https://m.me/696794420517801?fbclid=IwAR0W-LcSYanSCDU2yCdWG6Pc_kP9Q2_UNGg6MyjdePfirCGgMrwUIDgcAlY" target="_blank"><i style="padding-right:20px;" class="fab fa-facebook-messenger"></i></a>
+                    <a style="color:#fff;" href="https://www.instagram.com/aves_sta_teresa/" target="_blank"><i style="padding-right:20px;" class="fab fa-instagram"></i></a>
                     <a style="color:#fff;" href="https://www.google.com/maps/place/Aves+Santa+Teresa/@-32.841078,-70.939512,18z/data=!4m5!3m4!1s0x0:0xfca390054855f838!8m2!3d-32.841078!4d-70.9395124?hl=es-419" target="_blank"><i style="padding-right:20px;" class="fas fa-map-marked-alt"></i></a>
                 </div>
             </div>
         </div>
             <!-- Copyright -->
-        <div id="copyright" class="container-fluid" style="font-size:14px;color:#fff;background-color:#143319;height:40px;width:100%;display:flex;justify-content:center;padding:10px 0px 20px 0px;">
+        <div id="copyright" class="container-fluid" style="font-size:12px;color:#fff;background-color:#143319;height:40px;width:100%;display:flex;justify-content:center;padding:10px 0px 20px 0px;">
             <a style="color:#fff;text-decoration:none;" href="https://github.com/FranVanHouten" target="_blank">
             <p>Hecho con <i class="fas fa-heart"></i> y <i class="fas fa-coffee"></i> por Francisca Salinas Castillo</p>
             </a>
